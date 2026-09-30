@@ -1,0 +1,11 @@
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.csproj.AssemblyReference.cache
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.AssemblyInfo.cs
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\bin\Debug\net472\WireframeMod.dll
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\bin\Debug\net472\WireframeMod.pdb
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\bin\Debug\net472\PhotonRealtime.dll
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\Wirefram.1FDBC28F.Up2Date
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.dll
+C:\Users\sarah\source\repos\WireframeMod\WireframeMod\obj\Debug\net472\WireframeMod.pdb

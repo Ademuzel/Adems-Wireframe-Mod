@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sarah\\source\\repos\\WireframeMod\\WireframeMod\\WireframeMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sarah\\source\\repos\\WireframeMod\\WireframeMod\\WireframeMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sarah\\source\\repos\\WireframeMod\\WireframeMod\\WireframeMod.csproj",
+        "projectName": "WireframeMod",
+        "projectPath": "C:\\Users\\sarah\\source\\repos\\WireframeMod\\WireframeMod\\WireframeMod.csproj",
+        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarah\\source\\repos\\WireframeMod\\WireframeMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
